@@ -4,6 +4,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 This [Demo In Here]()
 
+## Full installation & Tutorial
+
+Big Thanks For [Coder Media](https://youtu.be/A4XsMMiNb40?si=Ea3ygk45S-W89a-5)
+
 ## Getting Started
 
 First, run the development server:
